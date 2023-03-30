@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dhruvbhati2001@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PpZ2-j6Ic1RQU4xR0z9fizVIuTVtROK1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C1jwKFVyBSlHKjEJo9l-QK_M9BdJzVcx/view?usp=sharing)
 
 - ⚡ Fun fact **I watch anime, a lot of anime :)**
 
