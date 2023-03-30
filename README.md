@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [VennChat-Social Media Website](https://github.com/ne0-d/social-media-app)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **MERN**
 
