@@ -2,6 +2,8 @@
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="coder" width="400" style="background-color:black;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+- 🔭 I’m currently improving my Backend skills
+  
 - 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **MERN**
@@ -10,7 +12,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C1jwKFVyBSlHKjEJo9l-QK_M9BdJzVcx/view?usp=sharing)
 
-- ⚡ Fun fact **I like watching anime :)**
+- ⚡ Fun fact **I am an Optimist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
